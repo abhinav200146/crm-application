@@ -102,5 +102,3 @@ Visit http://localhost:3000 to see the application in action
 - kinde
 - RabbitMQ
 - Vercel
-## Contact
-For any queries or issues, please contact ishpurwar121@gmail.com.
